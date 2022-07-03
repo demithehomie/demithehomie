@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @demithehomie
-- 👀 I’m interested in HTML, CSS, JS and REACT.. and Python, of course.
+- 👀 I’m interested in React, React Native, Node.js, Angular.js, HTML, CSS, JS ... and Python, of course.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on React.js, React Native, HTML, CSS, JS
 - 📫 How to reach me .. just send me a message
